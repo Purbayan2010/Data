@@ -1,0 +1,12 @@
+Name of Planet,Average distance (Km),Mass of the planet (Kg),Ratio of mass of the sun and the planet,Satelite present,Satelite spins or not
+,,,,0,1
+Mercury ,58000000,3.30E+24,,0,1
+Venus,108000000,4.87E+24,,1,1
+Earth,150000000,5.97E+24,,1,1
+Mars,228000000,6.40E+24,,1,1
+Jupiter,778000000,1.90E+27,,1,1
+Saturn,1427000000,5.68E+26,,1,1
+Uranus,2871000000,8.68E+25,,1,1
+Neptune,4497000000,1.02E+26,,1,1
+Pluto,5913000000,1.00E+22,,1,1
+,,,,1,1
